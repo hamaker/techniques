@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  attack: one
+  defense: one
+  group: MyString
+
+two:
+  attack: two
+  defense: two
+  group: MyString
